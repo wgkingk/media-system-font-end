@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "发布",
+  "usingComponents": {
+    "u-cell-group": "/uview/components/u-cell-group/u-cell-group",
+    "u-field": "/uview/components/u-field/u-field",
+    "u-radio-group": "/uview/components/u-radio-group/u-radio-group",
+    "u-radio": "/uview/components/u-radio/u-radio",
+    "jin-edit": "/components/jin-edit/jin-edit"
+  }
+}

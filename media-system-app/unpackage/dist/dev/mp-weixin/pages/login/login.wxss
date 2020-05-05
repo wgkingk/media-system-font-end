@@ -1,0 +1,9 @@
+
+.uni-form-item{
+        padding: 20rpx 0;
+}
+.uni-btn-v{
+	width: 200rpx;
+	margin-top: 50rpx;
+}
+

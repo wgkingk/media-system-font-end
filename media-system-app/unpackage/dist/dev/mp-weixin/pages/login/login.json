@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "登录",
+  "usingComponents": {
+    "u-cell-group": "/uview/components/u-cell-group/u-cell-group",
+    "u-field": "/uview/components/u-field/u-field",
+    "u-button": "/uview/components/u-button/u-button"
+  }
+}

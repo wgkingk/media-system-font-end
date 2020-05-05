@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "个人信息",
+  "usingComponents": {
+    "u-cell-group": "/uview/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/uview/components/u-cell-item/u-cell-item",
+    "u-icon": "/uview/components/u-icon/u-icon",
+    "u-switch": "/uview/components/u-switch/u-switch",
+    "u-field": "/uview/components/u-field/u-field",
+    "u-alert-tips": "/uview/components/u-alert-tips/u-alert-tips",
+    "u-button": "/uview/components/u-button/u-button"
+  }
+}

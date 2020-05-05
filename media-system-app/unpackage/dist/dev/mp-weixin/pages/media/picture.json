@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "图片",
+  "usingComponents": {
+    "u-cell-group": "/uview/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/uview/components/u-cell-item/u-cell-item",
+    "uni-card": "/components/uni-card/uni-card",
+    "u-alert-tips": "/uview/components/u-alert-tips/u-alert-tips",
+    "u-loadmore": "/uview/components/u-loadmore/u-loadmore",
+    "uni-pagination": "/components/uni-pagination/uni-pagination"
+  }
+}

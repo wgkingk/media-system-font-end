@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "我的文章",
+  "usingComponents": {
+    "u-table": "/uview/components/u-table/u-table",
+    "u-tr": "/uview/components/u-tr/u-tr",
+    "u-th": "/uview/components/u-th/u-th",
+    "u-td": "/uview/components/u-td/u-td",
+    "u-button": "/uview/components/u-button/u-button",
+    "uni-pagination": "/components/uni-pagination/uni-pagination"
+  }
+}
