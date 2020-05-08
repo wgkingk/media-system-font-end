@@ -110,6 +110,36 @@
 					"bounce": "none"
 				}
 			}
+        },
+		{
+			"path":"pages/myFile/myFile",
+			"style" : {
+				"navigationBarTitleText" : "我的图片",
+				"app-plus": {
+					"navigationBarTextStyle": "white",
+					"bounce": "none"
+				}
+			}
+		}
+        ,{
+            "path" : "pages/myFile/myVideo",
+            "style" : {
+            	"navigationBarTitleText" : "我的视频",
+            	"app-plus": {
+            		"navigationBarTextStyle": "white",
+            		"bounce": "none"
+            	}
+            }
+        }
+        ,{
+            "path" : "pages/video/video",
+            "style" : {
+            	"navigationBarTitleText" : "视频",
+            	"app-plus": {
+            		"navigationBarTextStyle": "white",
+            		"bounce": "none"
+            	}
+            }
         }
     ],
 	"globalStyle": {

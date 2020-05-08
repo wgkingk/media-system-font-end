@@ -11,6 +11,8 @@
 			<view v-if="!(personInfo.roles.length === 1 && personInfo.roles[0].roleId === 1)">
 			<navigator url="../editor/editor"><u-cell-item icon="more-circle" title="写文章"></u-cell-item></navigator>
 			<navigator url="../myPost/myPost"><u-cell-item icon="setting-fill" title="我的文章"></u-cell-item></navigator>
+			<navigator url="../myFile/myFile"><u-cell-item icon="integral-fill" title="我的图片"></u-cell-item></navigator>
+			<navigator url="../myFile/myVideo"><u-cell-item icon="integral-fill" title="我的视频"></u-cell-item></navigator>
 			<navigator url="../check/check"><u-cell-item icon="integral-fill" title="文章审核"></u-cell-item></navigator>
 			</view>
 			<u-cell-item icon="reload" title="注销" @click="logout"></u-cell-item>

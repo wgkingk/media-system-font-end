@@ -4,7 +4,9 @@
 			<u-cell-item icon="reload" title="刷新" @click="refresh"></u-cell-item>
 		</u-cell-group>
 		<uni-card v-for="(item,index) in list" :key="index" :title="'标题：'+item.mediaTitle" :note="'由' + item.userEmail + '上传'">
-			<video :src="item.mediaUrl" mode="aspectFit"></video>
+			<navigator :url="'../video/video?src=' + item.mediaUrl">
+				<image src="../../static/video.jpg"></image>
+			</navigator>
 			<u-alert-tips type="success" :title="item.mediaComment"></u-alert-tips>
 		</uni-card>
 		<u-loadmore :status="status" @loadmore="handleCurrentChange" />

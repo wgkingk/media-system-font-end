@@ -29,7 +29,7 @@ export default function $http(options) {
 				}else{
 					try {
 					  Promise.reject(response).catch(err => {
-					    // console.error(err);  
+					     console.error(err);  
 						uni.showToast({
 							title:'网络错误',
 							icon:'none'
